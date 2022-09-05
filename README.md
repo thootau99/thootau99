@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![thootau99's GitHub stats](https://github-readme-stats.vercel.app/api?username=thootau99&show_icons=true&theme=radical)
+
+Hi, I'm Thootau.
+I'm currently learing how to use terraform to set up my DigitalOcaen. 
